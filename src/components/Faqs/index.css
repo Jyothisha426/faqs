@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faqs-list-container {
+  background-color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+}
+
+.faq-heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 28px;
+}
